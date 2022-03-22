@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaclyn-k
-- 👀 I’m interested in data science and advocacy related to health disparities and social determinants of health.
-- 🌱 I’m currently learning about how to work in data science and use alllll the tools! 
+- 👀 I’m interested in epidemiology, data science, and advocacy related to health disparities and social determinants of health.
 
 
 <!---
